@@ -1,0 +1,2 @@
+# No third-party Python dependencies.
+# Requires Python 3.10 or newer. All modules are included with Python.
